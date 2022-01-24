@@ -8,7 +8,7 @@ import os
 url = "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/list-of-posts.html"
 headers = {
         'User-Agent': 'My User Agent 1.0',
-        'From': 'https://github.com/Leschonander/SenateVideoScraper'  
+        'From': 'https://github.com/Leschonander/StateDepartmentVisaScraper'  
     }
 
 data = pd.read_csv("StateDepartmentVisaLocations.csv")

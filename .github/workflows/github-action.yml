@@ -2,7 +2,7 @@ name: Run queryEmbassyTimes Script
 
 on:
   schedule:
-    - cron: "7 22 * * *" #runs at 22:00 UTC everyday
+    - cron: "0 22 * * *" #runs at 22:00 UTC everyday
 
 jobs:
   build:

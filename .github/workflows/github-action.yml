@@ -3,7 +3,8 @@ name: Run queryEmbassyTimes Script
 on:
   schedule:
     - cron: "0 22 * * *" #runs at 22:00 UTC everyday
-
+  workflow_dispatch:
+  
 jobs:
   build:
     runs-on: ubuntu-latest

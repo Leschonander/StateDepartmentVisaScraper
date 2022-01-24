@@ -21,7 +21,7 @@ jobs:
           pip install -r requirements.txt
       - name: execute py script # run the file to get the data and updae it
         run: |
-          python queryEmbassyTimes.py.py
+          python queryEmbassyTimes.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .

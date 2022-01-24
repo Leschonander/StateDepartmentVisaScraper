@@ -1,4 +1,4 @@
-name: py
+name: Run queryEmbassyTimes Script
 
 on:
   schedule:

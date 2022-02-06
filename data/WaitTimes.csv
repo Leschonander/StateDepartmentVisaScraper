@@ -1,4 +1,155 @@
 ,Location,Date Scraped,Vistor Visa Times,Student & Vistor Exchange Visa Times,All Other Non-Immigrant Visa Times
+0,Abidjan,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+1,Abu Dhabi,2022-02-06,240,90,20
+2,Accra,2022-02-06,654,276,654
+3,Addis Ababa,2022-02-06,561,185,185
+4,Algiers,2022-02-06,75,10,10
+5,Almaty,2022-02-06,73,29,10
+6,Amman,2022-02-06,721,45,721
+7,Amsterdam,2022-02-06,180,44,156
+8,Ankara,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+9,Antananarivo,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+10,Ashgabat,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+11,Asmara,2022-02-06,7,7,7
+12,Asuncion,2022-02-06,202,14,6
+13,Athens,2022-02-06,60,7,7
+14,Auckland,2022-02-06,44,44,44
+15,Baghdad,2022-02-06,Closed,Closed,Closed
+16,Bangkok,2022-02-06,120,1,8
+17,Banjul,2022-02-06,120,21,21
+18,Beirut,2022-02-06,115,32,3
+19,Belgrade,2022-02-06,120,7,14
+20,Belmopan,2022-02-06,51,63,63
+21,Bern,2022-02-06,105,44,44
+22,Beirut,2022-02-06,115,32,3
+23,Bishkek,2022-02-06,89,17,89
+24,Bogota,2022-02-06,672,82,54
+25,Bratislava,2022-02-06,14,7,7
+26,Brazzaville,2022-02-06,100,100,100
+27,Bridgetown,2022-02-06,449,24,387
+28,Brussels,2022-02-06,240,7,7
+29,Bucharest,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+30,Budapest,2022-02-06,225,30,30
+31,Buenos Aires,2022-02-06,450,28,45
+32,Bujumbura,2022-02-06,9,2,9
+33,Cairo,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+34,Calgary,2022-02-06,197,30,189
+35,Cape Town,2022-02-06,154,3,25
+36,Caracas,2022-02-06,Temporarily Closed,Temporarily Closed,Temporarily Closed
+37,Casablanca,2022-02-06,108,28,108
+38,Chisinau,2022-02-06,287,9,27
+39,Ciudad Juarez,2022-02-06,690,2,2
+40,Colombo,2022-02-06,100,4,200
+41,Cotonou,2022-02-06,999,20,20
+42,Dakar,2022-02-06,180,10,180
+43,Damascus,2022-02-06,Temporarily Closed,Temporarily Closed,Temporarily Closed
+44,Dar es Salaam,2022-02-06,57,51,51
+45,Dhaka,2022-02-06,153,15,15
+46,Djibouti,2022-02-06,200,90,90
+47,Doha,2022-02-06,60,2,3
+48,Dubai,2022-02-06,286,83,83
+49,Dublin,2022-02-06,109,7,71
+50,Frankfurt,2022-02-06,23,23,23
+51,Freetown,2022-02-06,65,65,65
+52,Georgetown,2022-02-06,499,8,Same Day
+53,Guangzhou,2022-02-06,4,4,4
+54,Guatemala City,2022-02-06,916,1,1
+55,Guayaquil,2022-02-06,619,8,11
+56,Hamilton,2022-02-06,90,30,90
+57,Havana,2022-02-06,Temporarily Closed,Temporarily Closed,Temporarily Closed
+58,Helsinki,2022-02-06,228,14,14
+59,Ho Chi Minh City,2022-02-06,248,78,77
+60,Hong Kong,2022-02-06,8,8,8
+61,Harare,2022-02-06,57,57,57
+62,Islamabad,2022-02-06,365,20,10
+63,Jakarta,2022-02-06,65,2,30
+64,Jerusalem,2022-02-06,130,2,2
+65,Johannesburg,2022-02-06,21,14,21
+66,Kabul,2022-02-06,Closed,Closed,Closed
+67,Kampala,2022-02-06,300,10,300
+68,Kathmandu,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+69,Khartoum,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+70,Kigali,2022-02-06,300,70,70
+71,Kingston,2022-02-06,644,1,2
+72,Kinshasa,2022-02-06,441,8,441
+73,Kuala Lumpur,2022-02-06,22,16,28
+74,Kuwait City,2022-02-06,5,5,5
+75,Kyiv,2022-02-06,300,13,13
+76,Lagos,2022-02-06,824,345,34
+77,La Paz,2022-02-06,Temporarily Closed,Temporarily Closed,Temporarily Closed
+78,Libreville,2022-02-06,Temporarily Closed,Temporarily Closed,Temporarily Closed
+79,Lilongwe,2022-02-06,5,5,5
+80,Lima,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+81,Ljubljana,2022-02-06,9,9,9
+82,Lome,2022-02-06,60,60,60
+83,London,2022-02-06,275,3,60
+84,Luanda,2022-02-06,64,7,1
+85,Lusaka,2022-02-06,57,4,57
+86,Madrid,2022-02-06,240,66,78
+87,Managua,2022-02-06,127,3,28
+88,Manama,2022-02-06,35,2,4
+89,Manila,2022-02-06,639,50,30
+90,Monrovia,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+91,Montevideo,2022-02-06,164,10,11
+92,Montreal,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+93,Moscow,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+94,Mumbai,2022-02-06,999,2,10
+95,Muscat,2022-02-06,15,15,15
+96,Naha,2022-02-06,12,12,12
+97,Nairobi,2022-02-06,506,213,14
+98,Naples,2022-02-06,347,17,347
+99,Nassau,2022-02-06,66,2,66
+100,New Delhi,2022-02-06,999,70,66
+101,Niamey,2022-02-06,24,24,24
+102,Nicosia,2022-02-06,130,7,130
+103,Oslo,2022-02-06,164,63,64
+104,Ouagadougou,2022-02-06,90,90,90
+105,Panama City,2022-02-06,385,14,24
+106,Paramaribo,2022-02-06,60,2,60
+107,Paris,2022-02-06,190,10,30
+108,Phnom Penh,2022-02-06,8,7,7
+109,Prague,2022-02-06,360,18,18
+110,Praia,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+111,Pristina,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+112,Port Au Prince,2022-02-06,999,5,999
+113,Port Moresby,2022-02-06,1,1,1
+114,Port of Spain,2022-02-06,165,7,8
+115,Rangoon,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+116,Reykjavik,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+117,Riga,2022-02-06,2,1,2
+118,Rio de Janeiro,2022-02-06,183,1,6
+119,Riyadh,2022-02-06,57,4,57
+120,Sanaa,2022-02-06,Temporarily Closed,Temporarily Closed,Temporarily Closed
+121,San Jose,2022-02-06,435,2,121
+122,San Salvador,2022-02-06,343,2,2
+123,Santiago,2022-02-06,699,169,155
+124,Santo Domingo,2022-02-06,999,20,20
+125,Sarajevo,2022-02-06,180,10,15
+126,Seoul,2022-02-06,42,14,28
+127,Singapore,2022-02-06,8,7,3
+128,Skopje,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+129,Sofia,2022-02-06,60,7,7
+130,Stockholm,2022-02-06,225,30,70
+131,Suva,2022-02-06,3,2,3
+132,Sydney,2022-02-06,300,62,181
+133,Taipei,2022-02-06,3,3,3
+134,Tallinn,2022-02-06,7,2,2
+135,Tashkent,2022-02-06,40,10,10
+136,Tbilisi,2022-02-06,666,29,22
+137,Tegucigalpa,2022-02-06,709,2,3
+138,Tel Aviv,2022-02-06,219,1,1
+139,Tirana,2022-02-06,568,8,8
+140,Tokyo,2022-02-06,56,2,1
+141,Tunis,2022-02-06,140,20,6
+142,Ulaanbaatar,2022-02-06,194,70,70
+143,Vancouver,2022-02-06,424,3,396
+144,Vienna,2022-02-06,144,5,11
+145,Vientiane,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+146,Vilnius,2022-02-06,22,6,6
+147,Warsaw,2022-02-06,63,2,3
+148,Yaounde,2022-02-06,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+149,Yerevan,2022-02-06,675,423,7
+150,Zagreb,2022-02-06,1,1,1
 0,Abidjan,2022-02-02,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
 1,Abu Dhabi,2022-02-02,240,90,20
 2,Accra,2022-02-02,654,276,654
@@ -150,154 +301,154 @@
 148,Yaounde,2022-02-02,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
 149,Yerevan,2022-02-02,675,423,7
 150,Zagreb,2022-02-02,1,1,1
-0,Abidjan,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-1,Abu Dhabi,2022-01-24,230,95,20
-2,Accra,2022-01-24,654,276,654
-3,Addis Ababa,2022-01-24,561,185,185
-4,Algiers,2022-01-24,65,10,10
-5,Almaty,2022-01-24,295,30,19
-6,Amman,2022-01-24,721,49,721
-7,Amsterdam,2022-01-24,285,72,224
-8,Ankara,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-9,Antananarivo,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-10,Ashgabat,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-11,Asmara,2022-01-24,7,7,7
-12,Asuncion,2022-01-24,202,14,6
-13,Athens,2022-01-24,90,45,45
-14,Auckland,2022-01-24,38,38,38
-15,Baghdad,2022-01-24,Closed,Closed,Closed
-16,Bangkok,2022-01-24,56,3,8
-17,Banjul,2022-01-24,120,21,21
-18,Beirut,2022-01-24,308,4,4
-19,Belgrade,2022-01-24,120,5,20
-20,Belmopan,2022-01-24,58,323,323
-21,Bern,2022-01-24,82,57,57
-22,Beirut,2022-01-24,308,4,4
-23,Bishkek,2022-01-24,73,28,73
-24,Bogota,2022-01-24,543,50,54
-25,Bratislava,2022-01-24,14,14,14
-26,Brazzaville,2022-01-24,100,100,100
-27,Bridgetown,2022-01-24,440,19,378
-28,Brussels,2022-01-24,240,5,70
-29,Bucharest,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-30,Budapest,2022-01-24,225,30,30
-31,Buenos Aires,2022-01-24,450,5,5
-32,Bujumbura,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-33,Cairo,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-34,Calgary,2022-01-24,197,30,189
-35,Cape Town,2022-01-24,41,7,20
-36,Caracas,2022-01-24,Temporarily Closed,Temporarily Closed,Temporarily Closed
-37,Casablanca,2022-01-24,105,9,105
-38,Chisinau,2022-01-24,232,8,6
-39,Ciudad Juarez,2022-01-24,689,2,13
-40,Colombo,2022-01-24,100,4,200
-41,Cotonou,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-42,Dakar,2022-01-24,180,10,180
-43,Damascus,2022-01-24,Temporarily Closed,Temporarily Closed,Temporarily Closed
-44,Dar es Salaam,2022-01-24,57,44,57
-45,Dhaka,2022-01-24,161,16,16
-46,Djibouti,2022-01-24,200,90,90
-47,Doha,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-48,Dubai,2022-01-24,286,83,83
-49,Dublin,2022-01-24,115,115,84
-50,Frankfurt,2022-01-24,180,101,101
-51,Freetown,2022-01-24,77,77,77
-52,Georgetown,2022-01-24,474,Same Day,Same Day
-53,Guangzhou,2022-01-24,4,4,4
-54,Guatemala City,2022-01-24,861,1,1
-55,Guayaquil,2022-01-24,581,14,3
-56,Hamilton,2022-01-24,90,30,90
-57,Havana,2022-01-24,Temporarily Closed,Temporarily Closed,Temporarily Closed
-58,Helsinki,2022-01-24,64,21,43
-59,Ho Chi Minh City,2022-01-24,242,79,75
-60,Hong Kong,2022-01-24,3,2,2
-61,Harare,2022-01-24,43,43,43
-62,Islamabad,2022-01-24,365,20,10
-63,Jakarta,2022-01-24,70,2,24
-64,Jerusalem,2022-01-24,130,2,2
-65,Johannesburg,2022-01-24,14,14,14
-66,Kabul,2022-01-24,Closed,Closed,Closed
-67,Kampala,2022-01-24,300,10,365
-68,Kathmandu,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-69,Khartoum,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-70,Kigali,2022-01-24,300,70,70
-71,Kingston,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-72,Kinshasa,2022-01-24,384,20,384
-73,Kuala Lumpur,2022-01-24,28,23,30
-74,Kuwait City,2022-01-24,10,10,10
-75,Kyiv,2022-01-24,300,6,5
-76,Lagos,2022-01-24,824,345,34
-77,La Paz,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-78,Libreville,2022-01-24,Temporarily Closed,Temporarily Closed,Temporarily Closed
-79,Lilongwe,2022-01-24,11,11,11
-80,Lima,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-81,Ljubljana,2022-01-24,9,9,9
-82,Lome,2022-01-24,60,60,60
-83,London,2022-01-24,275,3,60
-84,Luanda,2022-01-24,58,9,2
-85,Lusaka,2022-01-24,71,9,71
-86,Madrid,2022-01-24,142,37,77
-87,Managua,2022-01-24,98,6,30
-88,Manama,2022-01-24,45,6,8
-89,Manila,2022-01-24,616,18,18
-90,Monrovia,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-91,Montevideo,2022-01-24,137,14,14
-92,Montreal,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-93,Moscow,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-94,Mumbai,2022-01-24,999,38,23
-95,Muscat,2022-01-24,16,16,16
-96,Naha,2022-01-24,12,12,12
-97,Nairobi,2022-01-24,483,216,23
-98,Naples,2022-01-24,354,24,354
-99,Nassau,2022-01-24,64,9,64
-100,New Delhi,2022-01-24,999,70,67
-101,Niamey,2022-01-24,24,24,24
-102,Nicosia,2022-01-24,130,7,130
-103,Oslo,2022-01-24,251,69,70
-104,Ouagadougou,2022-01-24,90,90,90
-105,Panama City,2022-01-24,385,14,24
-106,Paramaribo,2022-01-24,60,5,60
-107,Paris,2022-01-24,196,9,70
-108,Phnom Penh,2022-01-24,14,7,7
-109,Prague,2022-01-24,360,9,30
-110,Praia,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-111,Pristina,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-112,Port Au Prince,2022-01-24,999,5,999
-113,Port Moresby,2022-01-24,1,1,1
-114,Port of Spain,2022-01-24,150,7,8
-115,Rangoon,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-116,Reykjavik,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-117,Riga,2022-01-24,2,1,2
-118,Rio de Janeiro,2022-01-24,134,13,7
-119,Riyadh,2022-01-24,71,9,71
-120,Sanaa,2022-01-24,Temporarily Closed,Temporarily Closed,Temporarily Closed
-121,San Jose,2022-01-24,405,20,97
-122,San Salvador,2022-01-24,345,2,2
-123,Santiago,2022-01-24,712,118,160
-124,Santo Domingo,2022-01-24,999,20,20
-125,Sarajevo,2022-01-24,180,10,15
-126,Seoul,2022-01-24,44,17,18
-127,Singapore,2022-01-24,3,3,2
-128,Skopje,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-129,Sofia,2022-01-24,60,9,7
-130,Stockholm,2022-01-24,188,42,63
-131,Suva,2022-01-24,3,2,3
-132,Sydney,2022-01-24,91,91,161
-133,Taipei,2022-01-24,2,2,3
-134,Tallinn,2022-01-24,7,2,2
-135,Tashkent,2022-01-24,40,10,10
-136,Tbilisi,2022-01-24,666,29,22
-137,Tegucigalpa,2022-01-24,685,2,2
-138,Tel Aviv,2022-01-24,226,1,1
-139,Tirana,2022-01-24,561,14,14
-140,Tokyo,2022-01-24,59,1,8
-141,Tunis,2022-01-24,180,35,10
-142,Ulaanbaatar,2022-01-24,194,70,70
-143,Vancouver,2022-01-24,436,35,400
-144,Vienna,2022-01-24,14,9,12
-145,Vientiane,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-146,Vilnius,2022-01-24,21,6,13
-147,Warsaw,2022-01-24,57,2,2
-148,Yaounde,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
-149,Yerevan,2022-01-24,715,55,85
-150,Zagreb,2022-01-24,1,3,1
+151,Abidjan,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+152,Abu Dhabi,2022-01-24,230,95,20
+153,Accra,2022-01-24,654,276,654
+154,Addis Ababa,2022-01-24,561,185,185
+155,Algiers,2022-01-24,65,10,10
+156,Almaty,2022-01-24,295,30,19
+157,Amman,2022-01-24,721,49,721
+158,Amsterdam,2022-01-24,285,72,224
+159,Ankara,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+160,Antananarivo,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+161,Ashgabat,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+162,Asmara,2022-01-24,7,7,7
+163,Asuncion,2022-01-24,202,14,6
+164,Athens,2022-01-24,90,45,45
+165,Auckland,2022-01-24,38,38,38
+166,Baghdad,2022-01-24,Closed,Closed,Closed
+167,Bangkok,2022-01-24,56,3,8
+168,Banjul,2022-01-24,120,21,21
+169,Beirut,2022-01-24,308,4,4
+170,Belgrade,2022-01-24,120,5,20
+171,Belmopan,2022-01-24,58,323,323
+172,Bern,2022-01-24,82,57,57
+173,Beirut,2022-01-24,308,4,4
+174,Bishkek,2022-01-24,73,28,73
+175,Bogota,2022-01-24,543,50,54
+176,Bratislava,2022-01-24,14,14,14
+177,Brazzaville,2022-01-24,100,100,100
+178,Bridgetown,2022-01-24,440,19,378
+179,Brussels,2022-01-24,240,5,70
+180,Bucharest,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+181,Budapest,2022-01-24,225,30,30
+182,Buenos Aires,2022-01-24,450,5,5
+183,Bujumbura,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+184,Cairo,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+185,Calgary,2022-01-24,197,30,189
+186,Cape Town,2022-01-24,41,7,20
+187,Caracas,2022-01-24,Temporarily Closed,Temporarily Closed,Temporarily Closed
+188,Casablanca,2022-01-24,105,9,105
+189,Chisinau,2022-01-24,232,8,6
+190,Ciudad Juarez,2022-01-24,689,2,13
+191,Colombo,2022-01-24,100,4,200
+192,Cotonou,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+193,Dakar,2022-01-24,180,10,180
+194,Damascus,2022-01-24,Temporarily Closed,Temporarily Closed,Temporarily Closed
+195,Dar es Salaam,2022-01-24,57,44,57
+196,Dhaka,2022-01-24,161,16,16
+197,Djibouti,2022-01-24,200,90,90
+198,Doha,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+199,Dubai,2022-01-24,286,83,83
+200,Dublin,2022-01-24,115,115,84
+201,Frankfurt,2022-01-24,180,101,101
+202,Freetown,2022-01-24,77,77,77
+203,Georgetown,2022-01-24,474,Same Day,Same Day
+204,Guangzhou,2022-01-24,4,4,4
+205,Guatemala City,2022-01-24,861,1,1
+206,Guayaquil,2022-01-24,581,14,3
+207,Hamilton,2022-01-24,90,30,90
+208,Havana,2022-01-24,Temporarily Closed,Temporarily Closed,Temporarily Closed
+209,Helsinki,2022-01-24,64,21,43
+210,Ho Chi Minh City,2022-01-24,242,79,75
+211,Hong Kong,2022-01-24,3,2,2
+212,Harare,2022-01-24,43,43,43
+213,Islamabad,2022-01-24,365,20,10
+214,Jakarta,2022-01-24,70,2,24
+215,Jerusalem,2022-01-24,130,2,2
+216,Johannesburg,2022-01-24,14,14,14
+217,Kabul,2022-01-24,Closed,Closed,Closed
+218,Kampala,2022-01-24,300,10,365
+219,Kathmandu,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+220,Khartoum,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+221,Kigali,2022-01-24,300,70,70
+222,Kingston,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+223,Kinshasa,2022-01-24,384,20,384
+224,Kuala Lumpur,2022-01-24,28,23,30
+225,Kuwait City,2022-01-24,10,10,10
+226,Kyiv,2022-01-24,300,6,5
+227,Lagos,2022-01-24,824,345,34
+228,La Paz,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+229,Libreville,2022-01-24,Temporarily Closed,Temporarily Closed,Temporarily Closed
+230,Lilongwe,2022-01-24,11,11,11
+231,Lima,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+232,Ljubljana,2022-01-24,9,9,9
+233,Lome,2022-01-24,60,60,60
+234,London,2022-01-24,275,3,60
+235,Luanda,2022-01-24,58,9,2
+236,Lusaka,2022-01-24,71,9,71
+237,Madrid,2022-01-24,142,37,77
+238,Managua,2022-01-24,98,6,30
+239,Manama,2022-01-24,45,6,8
+240,Manila,2022-01-24,616,18,18
+241,Monrovia,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+242,Montevideo,2022-01-24,137,14,14
+243,Montreal,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+244,Moscow,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+245,Mumbai,2022-01-24,999,38,23
+246,Muscat,2022-01-24,16,16,16
+247,Naha,2022-01-24,12,12,12
+248,Nairobi,2022-01-24,483,216,23
+249,Naples,2022-01-24,354,24,354
+250,Nassau,2022-01-24,64,9,64
+251,New Delhi,2022-01-24,999,70,67
+252,Niamey,2022-01-24,24,24,24
+253,Nicosia,2022-01-24,130,7,130
+254,Oslo,2022-01-24,251,69,70
+255,Ouagadougou,2022-01-24,90,90,90
+256,Panama City,2022-01-24,385,14,24
+257,Paramaribo,2022-01-24,60,5,60
+258,Paris,2022-01-24,196,9,70
+259,Phnom Penh,2022-01-24,14,7,7
+260,Prague,2022-01-24,360,9,30
+261,Praia,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+262,Pristina,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+263,Port Au Prince,2022-01-24,999,5,999
+264,Port Moresby,2022-01-24,1,1,1
+265,Port of Spain,2022-01-24,150,7,8
+266,Rangoon,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+267,Reykjavik,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+268,Riga,2022-01-24,2,1,2
+269,Rio de Janeiro,2022-01-24,134,13,7
+270,Riyadh,2022-01-24,71,9,71
+271,Sanaa,2022-01-24,Temporarily Closed,Temporarily Closed,Temporarily Closed
+272,San Jose,2022-01-24,405,20,97
+273,San Salvador,2022-01-24,345,2,2
+274,Santiago,2022-01-24,712,118,160
+275,Santo Domingo,2022-01-24,999,20,20
+276,Sarajevo,2022-01-24,180,10,15
+277,Seoul,2022-01-24,44,17,18
+278,Singapore,2022-01-24,3,3,2
+279,Skopje,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+280,Sofia,2022-01-24,60,9,7
+281,Stockholm,2022-01-24,188,42,63
+282,Suva,2022-01-24,3,2,3
+283,Sydney,2022-01-24,91,91,161
+284,Taipei,2022-01-24,2,2,3
+285,Tallinn,2022-01-24,7,2,2
+286,Tashkent,2022-01-24,40,10,10
+287,Tbilisi,2022-01-24,666,29,22
+288,Tegucigalpa,2022-01-24,685,2,2
+289,Tel Aviv,2022-01-24,226,1,1
+290,Tirana,2022-01-24,561,14,14
+291,Tokyo,2022-01-24,59,1,8
+292,Tunis,2022-01-24,180,35,10
+293,Ulaanbaatar,2022-01-24,194,70,70
+294,Vancouver,2022-01-24,436,35,400
+295,Vienna,2022-01-24,14,9,12
+296,Vientiane,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+297,Vilnius,2022-01-24,21,6,13
+298,Warsaw,2022-01-24,57,2,2
+299,Yaounde,2022-01-24,Emergency Appointments Only,Emergency Appointments Only,Emergency Appointments Only
+300,Yerevan,2022-01-24,715,55,85
+301,Zagreb,2022-01-24,1,3,1
